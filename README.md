@@ -1,5 +1,3 @@
-
-
 <!--
 **JELLRINA/JELLRINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <a href="https://github.com/JELLRINA"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJELLRINA&count_bg=%23B17FEE&title_bg=%23D6C9FF&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a> </p>
   </br>
