@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=center><h1>📚 STACKS</h1></div>
 <p align="center">
-  <a href="https://github.com/JELLRINA"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJELLRINA&count_bg=%23B17FEE&title_bg=%23D6C9FF&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a> 
+  <a href="https://github.com/JELLRINA"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJELLRINA&count_bg=%23B17FEE&title_bg=%23D6C9FF&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a> </p>
+  </br>
+  </br>
+<div align=center><h1>:purple_heart: STACKS :purple_heart:</h1></div>
+<p align="center">
   </br>
   </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  &nbsp
