@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<a href="https://"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D0B5F2&title_bg=%239F59FB&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJELLRINA&count_bg=%23B17FEE&title_bg=%23D6C9FF&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <!-- <a href="https://www.instagram.com/jellrina/" target="_blank"><img src="https://img.shields.io/badge/
   [RINA's]-[EA4335]?style=flat-square&logo=[Instagram]&logoColor=blueviolet"/></a> -->
 </p>
