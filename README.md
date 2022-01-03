@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">  &nbsp 
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white"></p> 
+    </br>
+  </br>
+  
   
 <!--  <p align="center">
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dlgh6007@gmail.com) 
